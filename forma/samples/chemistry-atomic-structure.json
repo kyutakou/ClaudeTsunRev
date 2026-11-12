@@ -1,0 +1,4 @@
+{"subject":"Chemistry","topic":"Atomic Structure","questions":[
+{"type":"multiple_choice","question":"Which particle has a negative charge?","choices":["Proton","Neutron","Electron","Nucleus"],"answer":2,"explanation":"Electrons carry a negative electric charge.","difficulty":"easy"},
+{"type":"multiple_choice","question":"What determines an element's atomic number?","choices":["Neutrons","Protons","Electrons in the outer shell","Mass number"],"answer":1,"explanation":"The atomic number is the number of protons in the nucleus.","difficulty":"easy"},
+{"type":"multiple_choice","question":"Isotopes of an element differ in their number of…","choices":["Protons","Electrons","Neutrons","Valence shells"],"answer":2,"explanation":"Isotopes share a proton count but have different neutron counts.","difficulty":"medium"}]}
